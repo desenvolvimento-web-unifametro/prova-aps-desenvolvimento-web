@@ -14,7 +14,7 @@ O objetivo desta atividade é avaliar a capacidade do aluno em pesquisar, compre
 ### Lista de Métodos para Sorteio
 
 
-`.map()`, `.filter()`, `.reduce()`, `.forEach()`, `.find()`, `.includes()`, `.findIndex()`, `.some()`, `.every()`, `.push()`, `.pop()`, `.unshift()`, `.shift()`, `.splice()`, `.slice()`, `.join()`, `.toString()`, `.toFixed()`, `Number()`, `Number.parseInt()`, `Number.parseFloat()`, `Number.isNaN()`, `Math.random()`, `Math.floor()`, `Math.ceil()`, `Math.round()`, `Math.max()`, `Math.min()`, `Math.abs()`, `JSON.stringify()`, `JSON.parse()` 
+`.map()`, `.filter()`, `.reduce()`, `.forEach()`, `.find()`, `.includes()`, `.findIndex()`, `.some()`, `.every()`, `.split()`, `.pop()`, `.unshift()`, `.shift()`, `.splice()`, `.slice()`, `.join()`, `.toString()`, `.toFixed()`, `Number()`, `Number.parseInt()`, `Number.parseFloat()`, `Number.isNaN()`, `Math.random()`, `Math.floor()`, `Math.ceil()`, `Math.round()`, `Math.max()`, `Math.min()`, `Math.abs()`, `JSON.stringify()`, `JSON.parse()` 
 
 ### 3. O que deve ser Entregue (As Duas Etapas)
 
