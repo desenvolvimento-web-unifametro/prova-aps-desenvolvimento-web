@@ -123,3 +123,6 @@ Para garantir que seu arquivo seja enviado para o local correto, siga exatamente
 
 10. **Verifique se seu arquivo esta no repositório!**
     Abra o link do repositório no seu navegador e confirme se o seu arquivo `.js` apareceu lá com o conteúdo correto.
+
+
+## 🛠️ Alunos que faltaram no dia do SORTEI EM SALA podem escolher qualquer um dos metodos que estao na lista, PODENDO ESCOLHER APRESENTAR EM DUPLA OU SOZINHO (ALUNOS QUE FALTARAM O SORTEIO)
