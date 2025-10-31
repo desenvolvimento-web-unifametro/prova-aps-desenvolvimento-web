@@ -101,7 +101,7 @@ Para garantir que seu arquivo seja enviado para o local correto, siga exatamente
     **Atenção:** Todos os próximos comandos (`add`, `commit`, `push`) devem ser executados DE DENTRO desta pasta.
 
 6.  **Crie seu Arquivo .js**
-    Usando a barra lateral do VS Code, crie seu arquivo `.js` (com o nome padrão obrigatório, ex: `map_JoaoSilva_MariaSouza.js`) dentro da pasta `prova-aps-desenvolvimento-web`.
+    Crie seu arquivo `.js` (com o nome padrão obrigatório, ex: `map_JoaoSilva_MariaSouza.js`) dentro da pasta `prova-aps-desenvolvimento-web`.
 
 7.  **Adicione seu Arquivo ao Git**
     Volte ao terminal e digite:
